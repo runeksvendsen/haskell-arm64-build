@@ -1,0 +1,9 @@
+{
+  "url": "https://github.com/runeksvendsen/bellman-ford",
+  "rev": "c75c2945fba3e205f030610f37f65d658ba702a6",
+  "date": "2020-11-27T10:05:41+01:00",
+  "sha256": "0q3b7m2snnapyqazqi0a5dqr5imvf172dpyr8icby9njwpiqcxh6",
+  "fetchSubmodules": false,
+  "deepClone": false,
+  "leaveDotGit": false
+}
